@@ -1,3 +1,7 @@
+## Hello
+Hi, I'm Luiz Felipe, a passionate  and freelance mobile development from Brazil. My passion for software is dreaming up ideas and making them come true with elegant interfaces. I'm very careful about the experience, architecture and code quality of the things I build.
+
+
 ## My Apps
 - you can find my personal apps published in the buttons below.
 
