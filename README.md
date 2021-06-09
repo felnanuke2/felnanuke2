@@ -3,7 +3,7 @@ Hi, I'm Luiz Felipe, a passionate  and freelance mobile development from Brazil.
 
 
 ## My Apps
-- you can find my personal apps published in the buttons below.
+- You can find my personal apps published in the buttons below.
 
 
 <a href = "https://play.google.com/store/apps/developer?id=Felnanuke2"><img  src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/google-2.svg" width="250"/></a>
