@@ -1,5 +1,5 @@
 ## My Apps
-- you can find my Published Apps on Play Store button below
+- you can find my personal apps published on Google Play Sotore by clicking the button below. 
 
 
 <a
