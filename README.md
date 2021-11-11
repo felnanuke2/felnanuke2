@@ -6,9 +6,7 @@ Hi, I'm Luiz Felipe, a passionate  and freelance mobile development from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/firebase.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/logo_dart_192px.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/kotlin.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/sqlite-icon.svg"></code>
-
-
+<code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/swift-icon.svg"></code>
 
 - 💼 Any freelance work? Do reach, [email](mailto:felnanuke@gmail.com) :)
 
