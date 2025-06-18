@@ -1,17 +1,4 @@
-# Hi, I'm Luiz Felipe Alves Lima 👋
-
-<p align="center">
-  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/flutter.svg" alt="Flutter"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/logo_dart_192px.svg" alt="Dart"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/firebase.svg" alt="Firebase"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/kotlin.svg" alt="Kotlin"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/swift-icon.svg" alt="Swift"></code>
-  <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS">
-  <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
-  <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">
-</p>
-
-I'm a **Flutter Specialist** passionate about crafting exceptional mobile applications for Android and iOS. With over 4 years of dedicated experience in mobile development, my focus is on delivering high-quality, performant, and scalable apps. I thrive on transforming ideas into reality with elegant interfaces and a meticulous approach to user experience, architecture, and code quality.
+# Hi, I'm a **Flutter Specialist** passionate about crafting exceptional mobile applications for Android and iOS. With over 4 years of dedicated experience in mobile development, my focus is on delivering high-quality, performant, and scalable apps. I thrive on transforming ideas into reality with elegant interfaces and a meticulous approach to user experience, architecture, and code quality.
 
 While my core expertise is in mobile, I also possess solid experience in backend development using NestJS, .NET, MongoDB, and PostgreSQL, enabling me to build and support the infrastructure that powers robust mobile experiences.
 
@@ -85,19 +72,18 @@ While my core expertise is in mobile, I also possess solid experience in backend
 
 ## 🔗 Connect & See My Work
 
-* **LinkedIn:** [Your LinkedIn Profile URL] * **Workana Profile (Over 22 Successful Projects):** [https://www.workana.com/freelancer/a6907819340c5fa04848471e5912435a](https://www.workana.com/freelancer/a6907819340c5fa04848471e5912435a)
+* **LinkedIn:** [https://www.linkedin.com/in/luizfelipelima-dev/](https://www.linkedin.com/in/luizfelipelima-dev/)
+* **Workana Profile (Over 22 Successful Projects):** [https://www.workana.com/freelancer/a6907819340c5fa04848471e5912435a](https://www.workana.com/freelancer/a6907819340c5fa04848471e5912435a)
 * **Email:** [felnanuke@gmail.com](mailto:felnanuke@gmail.com)
 
-## 📱 My Apps
-
-Showcasing my dedication to mobile development:
-
 <p align="center">
-  <a href="https://play.google.com/store/apps/developer?id=Felnanuke2">
-    <img src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/google-2.svg" width="250" alt="Google Play Store"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://apps.apple.com/us/developer/luiz-felipe-alves-lima/id1565193203">
-    <img src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/aivalable-on-the-app-store-2.svg" width="250" alt="Apple App Store"/>
-  </a>
+  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/flutter.svg" alt="Flutter"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/logo_dart_192px.svg" alt="Dart"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/firebase.svg" alt="Firebase"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/kotlin.svg" alt="Kotlin"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/swift-icon.svg" alt="Swift"></code>
+  <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
+  <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">
 </p>
+
+I
