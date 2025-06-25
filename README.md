@@ -44,20 +44,22 @@ While my core expertise is in mobile, I also possess solid experience in backend
 
 ## 🛠️ Core Mobile & Supporting Tech Stack
 
-**Mobile Specialization:**
+### Mobile Specialization:
 
-  * **Flutter & Dart:** `<code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/flutter.svg" alt="Flutter"></code>` `<code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/logo_dart_192px.svg" alt="Dart"></code>` Clean Architecture, BLoC/Cubit, GetX, State Management, Theming, Navigation.
-  * **Platforms:** Android (Kotlin `<code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/kotlin.svg" alt="Kotlin"></code>`), iOS (Swift `<code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/swift-icon.svg" alt="Swift"></code>`).
-  * **Firebase Ecosystem:** `<code><img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/firebase.svg" alt="Firebase"></code>` Auth, Firestore, Messaging, Crashlytics, Remote Config.
-  * **Essential Mobile Tools:** Push Notifications, WebView, Geolocation.
-  * **Publishing:** Google Play Store, Apple App Store (submissions, updates, rejections handling).
+* **Flutter & Dart:** <img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/flutter.svg" alt="Flutter"> <img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/logo_dart_192px.svg" alt="Dart">
+    * *Clean Architecture, BLoC/Cubit, GetX, State Management, Theming, Navigation.*
+* **Platforms:** Android (Kotlin <img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/kotlin.svg" alt="Kotlin">), iOS (Swift <img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/swift-icon.svg" alt="Swift">).
+* **Firebase Ecosystem:** <img height="20" src="https://raw.githubusercontent.com/felnanuke2/felnanuke2/main/firebase.svg" alt="Firebase">
+    * *Auth, Firestore, Messaging, Crashlytics, Remote Config.*
+* **Essential Mobile Tools:** Push Notifications, WebView, Geolocation.
+* **Publishing:** Google Play Store, Apple App Store (submissions, updates, rejections handling).
 
-**Supporting Backend & DevOps:**
+### Supporting Backend & DevOps:
 
-  * **Backend Frameworks:** Node.js, NestJS, .NET.
-  * **Databases:** MongoDB (`<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">`), PostgreSQL (`<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">`).
-  * **APIs:** RESTful API design and development, JWT Authentication.
-  * **DevOps & CI/CD:** GitHub Actions, Azure Pipelines, Fastlane for automated mobile builds and releases.
+* **Backend Frameworks:** Node.js, NestJS, .NET.
+* **Databases:** MongoDB (<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">), PostgreSQL (<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">).
+* **APIs:** RESTful API design and development, JWT Authentication.
+* **DevOps & CI/CD:** GitHub Actions, Azure Pipelines, Fastlane for automated mobile builds and releases.
 
 **General Tools & Processes:**
 
