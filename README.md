@@ -1,18 +1,35 @@
-# Luiz Felipe Lima
+# Hi there, I'm Luiz Felipe! 👋
 
-**Flutter Developer | Backend Enthusiast | Open Source Contributor**
+**Senior Mobile Software Engineer | Flutter, Android & iOS**
 
-I specialize in building high-quality mobile experiences using **Flutter** and **Dart**. I have a strong interest in software architecture, specifically Clean Architecture and scalable whitelabel systems. I also have experience building the backend services that power these apps using NestJS and .NET.
+I am a Mobile Engineer with 4+ years of experience building scalable applications and **bridging the gap between Flutter and Native platforms**. I specialize in extending hybrid frameworks with custom native code, ensuring high performance and deep integration on both **Android** and **iOS**.
 
-### 💻 Current Focus
+Whether it's writing a custom **Kotlin** plugin for a POS machine or managing memory with **Swift** for a media player, I focus on delivering robust mobile engineering solutions.
 
-  * **Cross-Platform Development:** Building apps that feel native on both iOS and Android.
-  * **Native Integration:** Using Pigeon and Method Channels to access device-specific features.
-  * **DevOps:** Automating the boring stuff with Fastlane and CI/CD pipelines.
+### 🚀 Technical Focus
+
+* **Native Interoperability:** Expert in Platform Channels (Method Channels) to expose native APIs (Bluetooth, Hardware, SDKs) to Flutter environments.
+* **Android Engineering:** Experience with Kotlin/Java, Services, Broadcast Receivers, and specific hardware integrations (SmartPOS, Thermal Printers).
+* **iOS Engineering:** Proficient in Swift/Objective-C, App Lifecycle, and dependency management (CocoaPods).
+* **DevOps & Automation:** Automating build and release pipelines for **Google Play** and **App Store** using Fastlane and CI/CD tools.
 
 ### 📦 Featured Open Source
 
-> **[Flutter Chrome Cast](https://github.com/felnanuke2/flutter_google_cast)**
+> **[Flutter Google Cast](https://github.com/felnanuke2/flutter_google_cast)**
 >
-> I maintain a plugin that enables Google Cast integration for Flutter applications. It utilizes native platform channels to allow users to cast content directly from their mobile devices.
+> I maintain a production-ready plugin that enables **Google Cast** integration for Flutter applications.
+> * **Deep Tech:** Implements native bridges for both **Android (Sender SDK)** and **iOS (GCKSessionManager)**, handling complex state synchronization across platforms.
+
+> **[DLNA/UPnP Controller](https://github.com/felnanuke2/seu_repo_aqui)** *(Se tiver o link)*
+>
+> Android-specific plugin for discovering and controlling media devices on local networks via low-level protocols.
+
+### 🛠 Tech Stack
+
+* **Languages:** Dart, Kotlin, Java, Swift, Objective-C.
+* **Mobile:** Flutter, Android SDK, iOS SDK.
+* **Architecture:** Clean Architecture, MVVM, SOLID.
+* **Backend:** NestJS, Node.js, .NET.
+
+---
 [LinkedIn](https://www.linkedin.com/in/luizfelipelima-dev/) • [Email](mailto:felnanuke@gmail.com)
