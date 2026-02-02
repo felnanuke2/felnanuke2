@@ -20,7 +20,7 @@ Whether it's writing a custom **Kotlin** plugin for a POS machine or managing me
 > I maintain a production-ready plugin that enables **Google Cast** integration for Flutter applications.
 > * **Deep Tech:** Implements native bridges for both **Android (Sender SDK)** and **iOS (GCKSessionManager)**, handling complex state synchronization across platforms.
 
-> **[DLNA/UPnP Controller](https://github.com/felnanuke2/seu_repo_aqui)** *(Se tiver o link)*
+> **[DLNA/UPnP Controller](https://github.com/felnanuke2/media_cast_dlna)**
 >
 > Android-specific plugin for discovering and controlling media devices on local networks via low-level protocols.
 
