@@ -2,7 +2,7 @@
 
 **Senior Mobile Software Engineer | Flutter, Android & iOS**
 
-I am a Mobile Engineer with 4+ years of experience building scalable applications and **bridging the gap between Flutter and Native platforms**. I specialize in extending hybrid frameworks with custom native code, ensuring high performance and deep integration on both **Android** and **iOS**.
+I am a Mobile Engineer with 5 years of experience building scalable applications and **bridging the gap between Flutter and Native platforms**. I specialize in extending hybrid frameworks with custom native code, ensuring high performance and deep integration on both **Android** and **iOS**.
 
 Whether it's writing a custom **Kotlin** plugin for a POS machine or managing memory with **Swift** for a media player, I focus on delivering robust mobile engineering solutions.
 
